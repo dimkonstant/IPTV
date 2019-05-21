@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="Νέα Τηλεόραση Κρήτης" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png",NEA TV (ΧΑΝΙΑ)
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="crete Κρήτη TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png",KPHTH TV (ΗΡΑΚΛΕΙΟ)
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-name="Κρήτη TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png",TV CRETA (ΗΡΑΚΛΕΙΟ)
+https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
+
+#EXTINF:-1 group-title="ΠΕΛ/ΝΗΣΟΣ" tvg-name="ΙΟΝΙΑΝ TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG",IONIAN CHANNEL (ΖΑΚΥΜΘΟΣ-ΠΑΤΡΑ)
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΛ/ΝΗΣΟΣ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020365/SUPER_B.png",SUPER B (ΠΑΤΡΑ)
+https://live.streams.ovh/Superb/Superb/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΛ/ΝΗΣΟΣ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG",LYCHNOS (ΠΑΤΡΑ)
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΛ/ΝΗΣΟΣ" tvg-logo="http://i.imgur.com/jH6tcnu.png",HLEKTRA (ΚΟΡΙΝΘΟΣ)
+http://94.156.174.52:25461/live/live/live/1.m3u8
+#EXTINF:-1 group-title="ΠΕΛ/ΝΗΣΟΣ" tvg-name="Best TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG",BEST TV (ΚΑΛΑΜΑΤΑ)
+https://best-tv.gr/HLS/hls/best/index.m3u8
+#EXTINF:-1 group-title="ΠΕΛ/ΝΗΣΟΣ" tvg-logo="https://i.imgur.com/OnB6n3C.jpg",MESOGEIOS (ΚΑΛΑΜΑΤΑ)
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+
+#EXTINF:-1 group-title="ΔΥΤ ΕΛΛΑΔΑ" tvg-logo="http://greektv.pbworks.com/f/AXELWOS_TV.png",AXELWOS TV (ΑΓΡΙΝΙΟ)
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1 group-title="ΔΥΤ ΕΛΛΑΔΑ" tvg-logo="http://greektv.pbworks.com/f/CORFU_TV.png",CORFU TV (ΚΕΡΚΥΡΑ)
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="ΔΥΤ ΕΛΛΑΔΑ" tvg-logo="http://greektv.pbworks.com/f/START_TV.png",START TV (ΚΕΡΚΥΡΑ)
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 group-title="ΔΥΤ ΕΛΛΑΔΑ" tvg-name="Ήπειρος TV1" tvg-logo="http://www.anacon.org/app/img/epirus.jpg",HPEIROS TV1 (ΙΩΑΝΝΙΝΑ)
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 group-title="ΔΥΤ ΕΛΛΑΔΑ" tvg-logo="http://greektv.pbworks.com/f/ITV.png",ITV (ΙΩΑΝΝΙΝΑ)
+rtmp://eco.streams.ovh:1935/ioanninatv/live
+#EXTINF:-1 group-title="ΔΥΤ ΕΛΛΑΔΑ" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV (ΑΡΤΑ)
+http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+
+#EXTINF:-1 group-title="ΚΕΝΤ ΜΑΚΕΔ" tvg-name="TV100" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png",TV 100 (ΘΕΣ/ΝΙΚΗ)
+http://178.62.176.153/hls/tv100/index.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤ ΜΑΚΕΔ" tvg-logo="https://i.imgur.com/wtlOC10.png",TV SUPER ΧΑΛΚΙΔΙΚΗ
+http://149.11.73.72/plus/plus.sdp/index.m3u8
+#EXTINF:-1 group-title="ΚΕΝΤ ΜΑΚΕΔ" tvg-name="4Ε" tvg-id="4Ε" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028172/4E.png",4E (ΘΕΣ/ΝΙΚΗ)
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-hellenice4-hsslive-25f-4x3-SDh/chunklist.m3u8
+
+#EXTINF:-1 group-title="ΔΥΤ ΜΑΚΕΔ" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png",TOP CHANNEL (ΚΟΖΑΝΗ)
+https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
+
+#EXTINF:-1 group-title="ΑΝΑΤ ΜΑΚΕΔ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png",THRAKI NET (ΑΛΕΞ/ΠΟΛΗ)
+http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8
+#EXTINF:-1 group-title="ΑΝΑΤ ΜΑΚΕΔ" tvg-name="Δέλτα TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028326/DELTA_TV.png",DELTA TV (ΑΛΕΞ/ΠΟΛΗ)
+http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
+#EXTINF:-1 group-title="ΑΝΑΤ ΜΑΚΕΔ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png",R CHANNEL (ΚΟΜΟΤΙΝΗ)
+https://54627d4fc5996.streamlock.net/tvrodopi/tvrodopi/playlist.m3u8
+#EXTINF:-1 group-title="ΑΝΑΤ ΜΑΚΕΔ" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png",ENA CHANNEL (ΚΑΒΑΛΑ)
+http://176.9.123.140:1935/1c/stream/master.m3u8
+#EXTINF:-1 group-title="ΑΝΑΤ ΜΑΚΕΔ" tvg-name="ΔΙΚΤΥΟ TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52184565/DIKTYO_TV.png",ΔΙΚΤΥΟ TV
+https://59583158c050f.streamlock.net/7322/7322/chunklist_w1334141415.m3u8
+#EXTINF:-1 group-title="ΑΝΑΤ ΜΑΚΕΔ" tvg-logo="http://i.imgur.com/PNlJ9g5.png",EPILOGES TV (ΣΕΡΡΕΣ-Youtube)
+https://www.youtube.com/watch?v=KbOs5_FDB4E
+
+#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-name="TRT" tvg-logo="http://i.imgur.com/nAzfWx5.png",TRT (ΒΟΛΟΣ)
+http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
+#EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-logo="http://www.earthtvnet.com/wp-content/uploads/2016/01/AstraTV.png",ASTRA TV (ΒΟΛΟΣ-Youtube)
+https://www.youtube.com/watch?v=Hhw5T5NiFqI
+
+#EXTINF:-1 group-title="ΣΤΕΡ ΕΛΛΑΔΑ" tvg-logo="https://i.imgur.com/ASNgEZI.jpg",E TV (ΛΙΒΑΔΕΙΑ)
+http://176.9.30.75:1935/live/epsilon/playlist.m3u8
+
+#EXTINF:-1 group-title="ΚΥΚΛΑΔΕΣ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/54780449/TV1_SYROS.png",SYROS TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+
+#EXTINF:-1 group-title="ΔΩΔΕΚ & ΣΑΜΟΣ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png",SAMIAKI TV
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="ΔΩΔΕΚ & ΣΑΜΟΣ" tvg-logo="http://greektv.pbworks.com/w/file/fetch/60551556/KOSMOS_TV.png",TV KOSMOS (ΡΟΔΟΣ)
+https://5948d12b760bb.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
+#EXTINF:-1 group-title="ΔΩΔΕΚ & ΣΑΜΟΣ" tvg-name="Αιγαίο TV" tvg-logo="http://i.imgur.com/jYdwvZB.png",AIGAIO (ΚΑΛΥΜΝΟΣ)
+http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
